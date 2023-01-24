@@ -1,0 +1,40 @@
+.menu-page-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logo-container
+{
+    display: flex;
+    justify-content: center;
+}
+.logo
+{
+    width: auto;
+    height: 60%;
+}
+
+.station-container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.station-container button
+{
+    background-color: rgb(162, 31, 31);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 180px;
+    height: 80px;
+    font-size: 25px;
+}
+
+.station-container div
+{
+    margin-top: 10%;
+    margin-right: 2%;
+}
